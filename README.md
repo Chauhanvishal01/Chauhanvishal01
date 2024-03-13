@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **JavaScript,reactJS**
 
-- 📫 How to reach me **vishal2825m@gmail.com**
-
 - ⚡ Fun fact **I enjoy coding late into the night! 🌙**
 
 <h3 align="left">Connect with me:</h3>
