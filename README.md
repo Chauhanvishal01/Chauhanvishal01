@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- ⚡ Fun fact **I enjoy coding late into the night! 🌙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
