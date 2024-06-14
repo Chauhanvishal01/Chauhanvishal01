@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="imageHere" width="400" src="https://github.com/Chauhanvishal01/Chauhanvishal01/blob/main/code.gif">
 
-- 🌱 I'm currently learning backend development using **JavaScript**
+- 🌱 I'm a web developer currently learning the **MERN stack** 
 
 
 <h3 align="left">Connect with me:</h3>
