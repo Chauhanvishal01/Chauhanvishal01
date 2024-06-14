@@ -4,7 +4,7 @@
 
 <img align="right" alt="imageHere" width="400" src="https://github.com/Chauhanvishal01/Chauhanvishal01/blob/main/code.gif">
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I'm currently learning backend development using **JavaScript**
 
 
 <h3 align="left">Connect with me:</h3>
