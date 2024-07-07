@@ -44,3 +44,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhanvishal01&" alt="chauhanvishal01" /></p>
+
+
+<p align="center">
+ <img width="1000" src="/github-snake.svg" alt="snake"/>
+</p>
