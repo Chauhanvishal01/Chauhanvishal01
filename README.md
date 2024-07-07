@@ -40,10 +40,10 @@
 </p>
 
  <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhanvishal01&show_icons=true&locale=en&layout=compact" alt="chauhanvishal01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhanvishal01&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="chauhanvishal01" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhanvishal01&" alt="chauhanvishal01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhanvishal01&theme=vision-friendly-dark" alt="chauhanvishal01" /></p>
 
 
 <p align="center">
