@@ -13,7 +13,7 @@
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left" style="margin:10px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github,postman" />
   </a>
