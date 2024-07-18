@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="imageHere" width="400" src="https://github.com/Chauhanvishal01/Chauhanvishal01/blob/main/code.gif">
+<img align="right" alt="imageHere" width="350"  src="https://github.com/Chauhanvishal01/Chauhanvishal01/blob/main/code.gif">
 
 - 🌱 I'm a web developer currently learning the **MERN stack** 
 
@@ -13,7 +13,7 @@
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="margin:10px;">
+<p align="left" style="margin-right:10px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github,postman" />
   </a>
