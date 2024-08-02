@@ -14,9 +14,19 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="margin-right:10px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github,postman" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; width: 300px;">
+  <img src="https://skillicons.dev/icons?i=html" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=css" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=js" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=react" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" style="width:50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=git" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=github" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+  <img src="https://skillicons.dev/icons?i=postman" style="width: 50px; height: auto; margin-right: 4px; margin-bottom: 4px;"/>
+</div>
+
+
 
 </p>
 
