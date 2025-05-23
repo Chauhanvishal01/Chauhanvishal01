@@ -4,7 +4,7 @@
 
 <img align="right" alt="imageHere" width="350"  src="https://github.com/Chauhanvishal01/Chauhanvishal01/blob/main/code.gif">
 
-- 🌱 I'm a web developer currently learning the **MERN stack** 
+-🌱 Passionate about web development and currently exploring the MERN stack.** 
 
 
 <h3 align="left">Connect with me:</h3>
